@@ -1,0 +1,16 @@
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.deps.json
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.pdb
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.csproj.CoreCompileInputs.cache
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.AssemblyInfoInputs.cache
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.AssemblyInfo.cs
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.csproj.CopyComplete
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.pdb
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Core.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Core.xml
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Entity\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.csprojAssemblyReference.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem.HRM.WEB", "PayrollSystem.HRM.WEB\PayrollSystem.HRM.WEB.csproj", "{A05B26B0-A372-4D92-8EA4-A636FAE22291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem.HRM.Entity", "PayrollSystem.HRM.Entity\PayrollSystem.HRM.Entity.csproj", "{6C4B45E3-0A64-4F15-A654-43AA77FD3B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem.HRM.Context", "PayrollSystem.HRM.Context\PayrollSystem.HRM.Context.csproj", "{FE8A7AFF-9AC7-4376-9066-FA1775504C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05B26B0-A372-4D92-8EA4-A636FAE22291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05B26B0-A372-4D92-8EA4-A636FAE22291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05B26B0-A372-4D92-8EA4-A636FAE22291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05B26B0-A372-4D92-8EA4-A636FAE22291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4B45E3-0A64-4F15-A654-43AA77FD3B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4B45E3-0A64-4F15-A654-43AA77FD3B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4B45E3-0A64-4F15-A654-43AA77FD3B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4B45E3-0A64-4F15-A654-43AA77FD3B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8A7AFF-9AC7-4376-9066-FA1775504C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8A7AFF-9AC7-4376-9066-FA1775504C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8A7AFF-9AC7-4376-9066-FA1775504C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8A7AFF-9AC7-4376-9066-FA1775504C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C8293B-83CB-4596-9472-4C95E405A903}
+	EndGlobalSection
+EndGlobal

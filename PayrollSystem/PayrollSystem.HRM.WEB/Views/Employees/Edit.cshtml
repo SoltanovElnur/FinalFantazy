@@ -1,0 +1,100 @@
+﻿@model PayrollSystem.HRM.Entity.Employee;
+@using PayrollSystem.HRM.Entity.enums;
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Employee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form enctype="multipart/form-data" asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PhotoPath"></label>
+                <div class="custom-file">
+                    <input asp-for="PhotoPath" type="file" name="PhotoPath" class="custom-file-input">
+                    <label asp-validation-for="PhotoPath" class="custom-file-label"></label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FatherName" class="control-label"></label>
+                <input asp-for="FatherName" class="form-control" />
+                <span asp-validation-for="FatherName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Birthdate" class="control-label"></label>
+                <input asp-for="Birthdate" class="form-control" />
+                <span asp-validation-for="Birthdate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Adress" class="control-label"></label>
+                <input asp-for="Adress" class="form-control" />
+                <span asp-validation-for="Adress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RegisterAdress" class="control-label"></label>
+                <input asp-for="RegisterAdress" class="form-control" />
+                <span asp-validation-for="RegisterAdress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PassportId" class="control-label"></label>
+                <input asp-for="PassportId" class="form-control" />
+                <span asp-validation-for="PassportId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PassportExpDate" class="control-label"></label>
+                <input asp-for="PassportExpDate" class="form-control" />
+                <span asp-validation-for="PassportExpDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Education" class="control-label"></label>
+                <input asp-for="Education" class="form-control" />
+                <span asp-validation-for="Education" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MartialStatus" class="control-label"></label>
+                <select asp-for="MartialStatus" asp-items="Html.GetEnumSelectList<MartialStatus>()" class="form-control"></select>
+                <span asp-validation-for="MartialStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <select asp-for="Gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control"></select>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+
+    <script>
+        $(document).ready(function () {
+            $(".custom-file-input").on("change", function () {
+                var fileName = $(this).val().split("\\").pop();
+                $(this).next(".custom-file-label").text(fileName);
+            });
+        })
+    </script>
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

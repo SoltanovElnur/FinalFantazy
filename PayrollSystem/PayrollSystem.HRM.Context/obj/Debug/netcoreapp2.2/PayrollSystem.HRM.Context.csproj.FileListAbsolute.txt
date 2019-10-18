@@ -1,0 +1,16 @@
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.deps.json
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.pdb
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\PayrollSystem.HRM.Entity.pdb
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.csprojAssemblyReference.cache
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.csproj.CoreCompileInputs.cache
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.AssemblyInfoInputs.cache
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.AssemblyInfo.cs
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.csproj.CopyComplete
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.dll
+C:\Users\solta\source\repos\PayrollSystem\PayrollSystem.HRM.Context\obj\Debug\netcoreapp2.2\PayrollSystem.HRM.Context.pdb
